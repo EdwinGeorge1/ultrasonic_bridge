@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/edwin/ros2_ws/build/ultrasonic_bridge",
+        "/home/edwin/ros2_ws/install/ultrasonic_bridge/lib/python3.10/site-packages",
+        "/home/edwin/ros2_ws/build/my_robot_description",
+        "/home/edwin/ros2_ws/install/my_robot_description/lib/python3.10/site-packages",
+        "/home/edwin/ros2_ws/build/bot_description",
+        "/home/edwin/ros2_ws/install/bot_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/edwin/ros2_ws/build/ultrasonic_bridge",
+        "/home/edwin/ros2_ws/install/ultrasonic_bridge/lib/python3.10/site-packages",
+        "/home/edwin/ros2_ws/build/my_robot_description",
+        "/home/edwin/ros2_ws/install/my_robot_description/lib/python3.10/site-packages",
+        "/home/edwin/ros2_ws/build/bot_description",
+        "/home/edwin/ros2_ws/install/bot_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
