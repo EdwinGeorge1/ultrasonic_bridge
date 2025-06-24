@@ -60,4 +60,4 @@ See [package.xml](package.xml) for license information.
 
 ## Maintainer
 
-edwin (<edwin_george@alphadroid.io>)
+edwin (<tagedwin@gmail.com>)
